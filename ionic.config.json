@@ -1,6 +1,6 @@
 {
-  "name": "moodlemobile",
-  "app_id": "com.moodle.moodlemobile",
+  "name": "Egnana Mobile App",
+  "app_id": "com.egnana.staging.kys",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {},

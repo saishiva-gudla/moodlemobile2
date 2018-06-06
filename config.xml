@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.egnana.ssvn"
+        id        = "com.egnana.staging.kys"
         versionCode = "20240"
         version   = "3.5.0">
-    <name>Moodle Mobile</name>
+    <name>Egnana Mobile App</name>
 
     <description>
-        Moodle Mobile official app
+        Egnana Mobile App
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://www.kysinfosystems.com/" email="deepak.kumar@kysinfosystems.com">
+        Deepak
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
